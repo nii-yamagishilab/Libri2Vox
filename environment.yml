@@ -1,0 +1,14 @@
+name: libri2vox
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - librosa
+  - soundfile
+  - tqdm
+  - pytorch
+  - torchaudio
+  - pip
