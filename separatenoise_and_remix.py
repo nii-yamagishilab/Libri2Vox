@@ -1,3 +1,6 @@
+# Author: Liu Yun
+# Copyright: NII Yamagishi lab
+
 from warnings import simplefilter
 
 simplefilter(action="ignore", category=FutureWarning)
