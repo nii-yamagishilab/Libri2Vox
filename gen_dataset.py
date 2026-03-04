@@ -1,3 +1,6 @@
+# Author: Liu Yun
+# Copyright: NII Yamagishi lab
+
 import argparse
 import os
 import random
