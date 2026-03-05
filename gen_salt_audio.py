@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Author: Liu Yun
+# Copyright: NII Yamagishi lab
+# Modified from https://github.com/BakerBunker/SALT by BakerBunker
 """
 One-file SALT batch generation script.
 

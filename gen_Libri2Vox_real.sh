@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Author: Liu Yun
+# Copyright: NII Yamagishi lab
 set -euo pipefail
 
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
